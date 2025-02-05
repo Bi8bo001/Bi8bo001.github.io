@@ -39,7 +39,7 @@ I’m incredibly grateful for the mentorship and guidance I’ve received, and I
 
 # 📖 Educations
 - *2023.09 - 2027.06 (expected)*, BSc (HONS) DATA SCIENCE & ANALYTICS, MINOR IN COMPUTER SCIENCE, Hong Kong Polytechnic University
-- *2024.06 - 2024.08*, Summer Session, Stanford University
+- *2024.06 - 2024.08*, Summer Session (Courses: Machine Learning & Programming Methodology), Stanford University
 
 <!--
 # 🔥 News
