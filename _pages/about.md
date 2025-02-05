@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 Welcome to My Site!  
+# 👋 Welcome to My Site!!
 
 Hello! 😊 I’m **Jingwen Yang (Anita)**, a second-year undergraduate at **The Hong Kong Polytechnic University**, majoring in **Data Science & Analytics** in the Department of Applied Mathematics and minoring in **Computer Science** in the Department of Computing.
 
