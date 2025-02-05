@@ -19,7 +19,8 @@ redirect_from:
 
 # 👋 Welcome to My Site!  
 
-Hello! 😊 I’m **Jingwen Yang (Anita)**, a second-year undergraduate at **The Hong Kong Polytechnic University**, majoring in **Data Science** in the Department of Applied Mathematics and minoring in **Computer Science** in the Department of Computing.  
+Hello! 😊 I’m **Jingwen Yang (Anita)**, a second-year undergraduate at **The Hong Kong Polytechnic University**, majoring in **Data Science** in the Department of Applied Mathematics and minoring in **Computer Science** in the Department of Computing.
+
 
 ## 🔬 Research Interests  
 I’m passionate about **AI for Science**, **Explainable AI**, and **Computer Vision**. Currently, I am:  
@@ -27,7 +28,7 @@ I’m passionate about **AI for Science**, **Explainable AI**, and **Computer Vi
 - Working on a **vision-language model (VLM) for medical images** project under the guidance of **Prof. Yang Hongxia**, as part of a PhD-level coursework project.  
 
 ## 📩 Get in Touch
-I’m incredibly grateful for the mentorship and guidance I’ve received, and I’m eager to seek **research/internship opportunities** in **AI for Science** and **Computer Vision**—happy to connect!.  
+I’m incredibly grateful for the mentorship and guidance I’ve received, and I’m eager to seek **research/internship opportunities** in **AI for Science** and **Computer Vision**—happy to connect!. 📄 [Download My CV](link-to-your-cv.pdf)
 
 
 # 🎖 Honors and Awards
