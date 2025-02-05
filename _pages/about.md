@@ -29,11 +29,11 @@ I’m passionate about **AI for Science**, **Explainable AI**, and **Computer Vi
 I'm also a **co-founder** of an **entrepreneurial AI project** that applies **computer vision** to revolutionize dance education. This project uses AI to segment dance videos (e.g., hip-hop, gesture dances), analyze rhythm, and generate structured teaching content. The aim is to create interactive, beginner-friendly tutorials, making dance learning accessible and innovating in the digital education space.
 
 ## 📩 Get in Touch
-I’m incredibly grateful for the mentorship and guidance I’ve received, and I’m eager to seek **research/internship opportunities** in **AI for Science** and **Computer Vision**—happy to connect!. 📄 [Download My CV](/Users/anita/Desktop/jingwen.yang.github.io-main/_pages/CV.pdf)
+I’m incredibly grateful for the mentorship and guidance I’ve received, and I’m eager to seek **research/internship opportunities** in **AI for Science** and **Computer Vision**—happy to connect!. 📄 [Download My CV](CV.pdf)
 
 
 # 🎖 Honors and Awards
-- *2024.06* Hall Academic Scholarship for top 3 students in GPA: [Dr. Kong Footcare Minyin Hall Scholarship 2023/24](/Users/anita/Desktop/jingwen.yang.github.io-main/_pages/MY_scholarship.pdf)
+- *2024.06* Hall Academic Scholarship for top 3 students in GPA: [Dr. Kong Footcare Minyin Hall Scholarship 2023/24](MY_scholarship.pdf)
 - *2021.09* Research Scholarship: Undergraduate Research and Innovation Scheme[(URIS)](https://www.polyu.edu.hk/gs/ug-research/uris/approved-projects/?sc_lang=en) Scholarship 2024/25
 
 # 📖 Educations
