@@ -26,6 +26,7 @@ Hello! 😊 I’m **Jingwen Yang (Anita)**, a second-year undergraduate at **The
 I’m passionate about **AI for Science**, **Explainable AI**, and **Computer Vision**. Currently, I am:  
 - Collaborating with a PhD senior on **crystal structure prediction** using AI for Science and exploring **Explainable Graph Neural Networks (GNNs)** for scientific applications under the guidance of **Prof. Lin Wanyu**.  
 - Working on a **vision-language model (VLM) for medical images** project under the guidance of **Prof. Yang Hongxia**, as part of a PhD-level coursework project.  
+
 I'm also a **co-founder** of an **entrepreneurial AI project** that applies **computer vision** to revolutionize dance education. This project uses AI to segment dance videos (e.g., hip-hop, gesture dances), analyze rhythm, and generate structured teaching content. The aim is to create interactive, beginner-friendly tutorials, making dance learning accessible and innovating in the digital education space.
 
 ## 📩 Get in Touch
