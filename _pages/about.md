@@ -29,7 +29,6 @@ I’m passionate about **AI for Science**, **Explainable AI**, and **Computer Vi
 ## 📩 Get in Touch
 I’m incredibly grateful for the mentorship and guidance I’ve received, and I’m eager to seek **research/internship opportunities** in **AI for Science** and **Computer Vision**—happy to connect!.  
 
---!>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -39,7 +38,7 @@ I’m incredibly grateful for the mentorship and guidance I’ve received, and I
 - *2023.09 - 2027.06 (expected)*, BSc (HONS) DATA SCIENCE & ANALYTICS, MINOR IN COMPUTER SCIENCE, Hong Kong Polytechnic University
 - *2024.06 - 2024.08*, Summer Session, Stanford University
 
-
+<!--
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -65,4 +64,5 @@ I’m incredibly grateful for the mentorship and guidance I’ve received, and I
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
