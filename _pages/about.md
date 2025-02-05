@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 Welcome to My Site!!
 
-Hello! 😊 I’m **Jingwen Yang (Anita)**, a second-year undergraduate at **The Hong Kong Polytechnic University**, majoring in **Data Science & Analytics** in the Department of Applied Mathematics and minoring in **Computer Science** in the Department of Computing.
+Hello! 😊 I’m **Jingwen Yang (Anita)**, a second-year undergraduate at **The Hong Kong Polytechnic University**, majoring in **Data Science & Analytics** in the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/?sc_lang=en) and minoring in **Computer Science** in the [Department of Computing](https://www.polyu.edu.hk/comp/?sc_lang=en).
 
 
 ## 🔬 Research Interests  
@@ -30,7 +30,7 @@ I’m passionate about **AI for Science**, **Explainable AI**, and **Computer Vi
 I'm also a **co-founder** of an **entrepreneurial AI project** that applies **computer vision** to revolutionize dance education. This project uses AI to segment dance videos (e.g., hip-hop, gesture dances), analyze rhythm, and generate structured teaching content. The aim is to create interactive, beginner-friendly tutorials, making dance learning accessible and innovating in the digital education space.
 
 ## 📩 Get in Touch
-I’m incredibly grateful for the mentorship and guidance I’ve received, and I’m eager to seek **research/internship opportunities** in **AI for Science** and **Computer Vision**—happy to connect!. 📄 [Download My CV](CV.pdf)
+I’m incredibly grateful for the mentorship and guidance I’ve received, and I’m eager to seek **research/internship opportunities** in **AI for Science** and **Computer Vision**—happy to connect!. 📄 <span style="color:red;">[Download My CV](CV_summerresearch.pdf)
 
 
 # 🎖 Honors and Awards
