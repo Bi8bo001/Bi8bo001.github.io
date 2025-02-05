@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Home Page"
-description              : "Data Science & Computer Science Undergraduate in the Hong Kong Polytechnic University"
+description              : "Year 2 Data Science & CS Undergratuate | AI for Science & Trustworthy AI | Passionate, self-motivated, Detail-Oriented, "
 repository               : "Bi8bo001/jingwen.yang.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Jingwen Yang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Hong Kong Polytechnic University"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
   #googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   #email            : "bi8boyjw9982@gmail.com"
-  #researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
