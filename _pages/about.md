@@ -19,21 +19,22 @@ redirect_from:
 
 # 👋 Welcome to My Site!  
 
-Hello! 😊 I’m **Jingwen Yang (Anita)**, a second-year undergraduate at **The Hong Kong Polytechnic University**, majoring in **Data Science** in the Department of Applied Mathematics and minoring in **Computer Science** in the Department of Computing.
+Hello! 😊 I’m **Jingwen Yang (Anita)**, a second-year undergraduate at **The Hong Kong Polytechnic University**, majoring in **Data Science & Analytics** in the Department of Applied Mathematics and minoring in **Computer Science** in the Department of Computing.
 
 
 ## 🔬 Research Interests  
 I’m passionate about **AI for Science**, **Explainable AI**, and **Computer Vision**. Currently, I am:  
 - Collaborating with a PhD senior on **crystal structure prediction** using AI for Science and exploring **Explainable Graph Neural Networks (GNNs)** for scientific applications under the guidance of **Prof. Lin Wanyu**.  
 - Working on a **vision-language model (VLM) for medical images** project under the guidance of **Prof. Yang Hongxia**, as part of a PhD-level coursework project.  
+I'm also a **co-founder** of an **entrepreneurial AI project** that applies **computer vision** to revolutionize dance education. This project uses AI to segment dance videos (e.g., hip-hop, gesture dances), analyze rhythm, and generate structured teaching content. The aim is to create interactive, beginner-friendly tutorials, making dance learning accessible and innovating in the digital education space.
 
 ## 📩 Get in Touch
-I’m incredibly grateful for the mentorship and guidance I’ve received, and I’m eager to seek **research/internship opportunities** in **AI for Science** and **Computer Vision**—happy to connect!. 📄 [Download My CV](link-to-your-cv.pdf)
+I’m incredibly grateful for the mentorship and guidance I’ve received, and I’m eager to seek **research/internship opportunities** in **AI for Science** and **Computer Vision**—happy to connect!. 📄 [Download My CV](/Users/anita/Desktop/jingwen.yang.github.io-main/_pages/CV.pdf)
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06* Hall Academic Scholarship for top 3 students in GPA: [Dr. Kong Footcare Minyin Hall Scholarship 2023/24](/Users/anita/Desktop/jingwen.yang.github.io-main/_pages/MY_scholarship.pdf)
+- *2021.09* Research Scholarship: Undergraduate Research and Innovation Scheme[(URIS)](https://www.polyu.edu.hk/gs/ug-research/uris/approved-projects/?sc_lang=en) Scholarship 2024/25
 
 # 📖 Educations
 - *2023.09 - 2027.06 (expected)*, BSc (HONS) DATA SCIENCE & ANALYTICS, MINOR IN COMPUTER SCIENCE, Hong Kong Polytechnic University
@@ -67,3 +68,4 @@ I’m incredibly grateful for the mentorship and guidance I’ve received, and I
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
+
