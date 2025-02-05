@@ -29,7 +29,17 @@ I’m passionate about **AI for Science**, **Explainable AI**, and **Computer Vi
 ## 📩 Get in Touch
 I’m incredibly grateful for the mentorship and guidance I’ve received, and I’m eager to seek **research/internship opportunities** in **AI for Science** and **Computer Vision**—happy to connect!.  
 
-<!--
+--!>
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 📖 Educations
+- *2023.09 - 2027.06 (expected)*, BSc (HONS) DATA SCIENCE & ANALYTICS, MINOR IN COMPUTER SCIENCE, Hong Kong Polytechnic University
+- *2024.06 - 2024.08*, Summer Session, Stanford University
+
+
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -49,18 +59,7 @@ I’m incredibly grateful for the mentorship and guidance I’ve received, and I
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
---!>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2023.09 - 2027.06 (expected)*, BSc (HONS) DATA SCIENCE & ANALYTICS, MINOR IN COMPUTER SCIENCE, Hong Kong Polytechnic University
-- *2024.06 - 2024.08*, Summer Session, Stanford University
-
-  
-<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
