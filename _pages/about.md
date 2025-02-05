@@ -35,7 +35,7 @@ I’m incredibly grateful for the mentorship and guidance I’ve received, and I
 
 # 🎖 Honors and Awards
 - *2024.06* Hall Academic Scholarship for top 3 students in GPA: [Dr. Kong Footcare Minyin Hall Scholarship 2023/24](MY_scholarship.pdf)
-- *2021.09* Research Scholarship: Undergraduate Research and Innovation Scheme[(URIS)](https://www.polyu.edu.hk/gs/ug-research/uris/approved-projects/?sc_lang=en) Scholarship 2024/25
+- *2024.09* Research Scholarship: Undergraduate Research and Innovation Scheme[(URIS)](https://www.polyu.edu.hk/gs/ug-research/uris/approved-projects/?sc_lang=en) Scholarship 2024/25
 
 # 📖 Educations
 - *2023.09 - 2027.06 (expected)*, BSc (HONS) DATA SCIENCE & ANALYTICS, MINOR IN COMPUTER SCIENCE, Hong Kong Polytechnic University
