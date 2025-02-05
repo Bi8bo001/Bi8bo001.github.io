@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Home Page"
-description              : "Year 2 Data Science & CS Undergratuate | AI for Science & Trustworthy AI | Passionate, self-motivated, Detail-Oriented, "
+description              : "Year 2 Data Science & CS Undergraduate | AI for Science & Trustworthy AI | Passionate, self-motivated, Detail-Oriented"
 repository               : "Bi8bo001/jingwen.yang.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -161,3 +161,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
