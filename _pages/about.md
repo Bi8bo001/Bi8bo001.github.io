@@ -55,7 +55,7 @@ If you’re open to chatting or collaboration, feel free to contact me via **ema
   <div class="paper-box-text" markdown="1">
 
 🌟 **[Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation](https://arxiv.org/abs/2505.23867)**  
-Zeyu Liu\*, Zhitian Hou\*, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, **Jingwen Yang**, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang†  
+Zeyu Liu\*, Zhitian Hou\*, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, **Jingwen Yang**, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang\†  
 • *arXiv preprint, 2025* &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2505.23867)
 
 </div>
