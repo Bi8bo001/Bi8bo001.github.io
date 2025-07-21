@@ -61,7 +61,7 @@ If you’re open to chatting or collaboration, feel free to contact me via **ema
   <div class="paper-box-text" markdown="1">
 
 🌟 **[Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation](https://arxiv.org/abs/2505.23867)**  
-Zeyu Liu*, Zhitian Hou*, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, <strong><u>Jingwen Yang</u></strong>, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang<sup>†</sup>   
+Zeyu Liu<sup>*</sup>, Zhitian Hou<sup>*</sup>, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, <strong><u>Jingwen Yang</u></strong>, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang<sup>†</sup>   
 • *arXiv preprint, 2025* &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2505.23867)
 
 A robust and resource-efficient medical MLLM, systematically evaluated across reasoning, grounding, and hallucination dimensions on real-world clinical VQA datasets.
