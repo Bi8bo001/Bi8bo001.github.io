@@ -61,7 +61,7 @@ If you’re open to chatting or collaboration, feel free to contact me via **ema
   <div class="paper-box-text" markdown="1">
 
 🌟 **[Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation](https://arxiv.org/abs/2505.23867)**  
-Zeyu Liu*, Zhitian Hou*, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, <strong><u>Jingwen Yang</u></strong>, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang†
+Zeyu Liu*, Zhitian Hou*, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, <strong><u>Jingwen Yang</u></strong>, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang<sup>†</sup>   
 • *arXiv preprint, 2025* &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2505.23867)
 
 A robust and resource-efficient medical MLLM, systematically evaluated across reasoning, grounding, and hallucination dimensions on real-world clinical VQA datasets.
@@ -79,7 +79,7 @@ A robust and resource-efficient medical MLLM, systematically evaluated across re
   <div class="paper-box-text" markdown="1">
 
 🔷 **Revisiting the Canonicalization for Fast and Accurate Crystal Tensor Property Prediction**  
-Haowei Hua, <strong><u>Jingwen Yang</u></strong>, Wanyu Lin†, Pan Zhou, Ming Yang, Yew-Soon Ong  
+Haowei Hua, <strong><u>Jingwen Yang</u></strong>, Wanyu Lin<sup>†</sup>, Pan Zhou, Ming Yang, Yew-Soon Ong  
 • *Under submission, 2025*
 
 A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivariant crystal tensor property prediction, achieving up to 13× speedup and SOTA accuracy.
