@@ -49,8 +49,9 @@ If you’re open to chatting or collaboration, feel free to contact me via **ema
 <hr>
 
 ## 📝 Publications  
-† indicates corresponding author, * indicates equal contribution
-
+<p>
+<sup>†</sup> indicates corresponding author, <sup>*</sup> indicates equal contribution
+</p>
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
@@ -62,7 +63,7 @@ If you’re open to chatting or collaboration, feel free to contact me via **ema
 
 🌟 **[Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation](https://arxiv.org/abs/2505.23867)**  
 <p>
-Zeyu Liu<sup>*</sup>, Zhitian Hou<sup>*</sup>, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, <strong><u>Jingwen Yang</u></strong>, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang<sup>†</sup>   
+Zeyu Liu<sup>*</sup>, Zhitian Hou<sup>*</sup>, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, <strong><u>Jingwen Yang</u></strong>, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang <sup>†</sup>  
 </p>
 • *arXiv preprint, 2025* &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2505.23867)
 
