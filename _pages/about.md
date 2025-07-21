@@ -45,20 +45,18 @@ If you’re open to chatting or collaboration, feel free to contact me via **ema
 ## 📝 Publications  
 † indicates corresponding author, * indicates equal contribution
 
-### Conference and Journal Publications
-
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
       <div class="badge">arXiv 2025</div>
-      <img src='images/infimed.png' alt="Infi-Med teaser" width="100%">
+      <img src='publication/infimed.png' alt="Infi-Med teaser" width="100%">
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
 
 🌟 **[Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation](https://arxiv.org/abs/2505.23867)**  
-Zeyu Liu*, Zhitian Hou*, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, **Jingwen Yang**, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang†  
-• arXiv preprint, 2025 &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2505.23867)  
+Zeyu Liu\*, Zhitian Hou\*, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, **Jingwen Yang**, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang†  
+• *arXiv preprint, 2025* &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2505.23867)
 
 </div>
 </div>
