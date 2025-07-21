@@ -49,7 +49,7 @@ If you’re open to chatting or collaboration, feel free to contact me via **ema
   <div class="paper-box-image">
     <div>
       <div class="badge">arXiv 2025</div>
-      <img src='publication/infimed.png' alt="Infi-Med teaser" width="100%">
+      <img src='/assets/images/publication/infimed.png' alt="Infi-Med teaser" width="100%">
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
