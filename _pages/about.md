@@ -40,14 +40,14 @@ I’m genuinely thankful for the mentorship and support I’ve received so far, 
 If you’re open to chatting or collaboration, feel free to contact me via **email** 📧 *jingwen.yang@connect.polyu.hk* or add me on **WeChat** 💬 *tiancaiygg666* — I’d truly appreciate the opportunity！
 
 <hr>
-
+<span class='anchor' id='internships'></span>
 ## 💻 Internships
 
 - *Jun 2025 – Aug 2025* · **R&D Intern, Nokia**  
   *Shanghai, China*
 
 <hr>
-
+<span class='anchor' id='publications'></span>
 ## 📝 Publications  
 <p>
 <sup>†</sup> indicates corresponding author, <sup>*</sup> indicates equal contribution
@@ -92,7 +92,7 @@ A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivar
 </div>
 </div>
 
-
+<span class='anchor' id='honors and awards'></span>
 ## 🎖 Honors and Awards
 
 - *Jun 2024* · **Dr. Kong Footcare Minyin Hall Scholarship**  
@@ -102,7 +102,7 @@ A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivar
   *PolyU Research Scholarship 2024/25* [[Link](https://www.polyu.edu.hk/gs/ug-research/uris/approved-projects/?sc_lang=en)]
 
 <hr>
-
+<span class='anchor' id='education'></span>
 ## 📖 Education
 
 - *Sep 2023 – Jun 2027 (expected)* · **BSc (Hons) in Data Science & Analytics**, Minor in Computer Science  
