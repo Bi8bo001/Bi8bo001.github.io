@@ -103,7 +103,7 @@ A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivar
 
 <hr>
 
-## 📖 Education
+## 📖 Educations
 
 - *Sep 2023 – Jun 2027 (expected)* · **BSc (Hons) in Data Science & Analytics**, Minor in Computer Science  
   *The Hong Kong Polytechnic University*
