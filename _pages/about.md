@@ -75,17 +75,17 @@ A robust and resource-efficient medical MLLM, systematically evaluated across re
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">In Submission</div>
+      <div class="badge">arXiv preprint</div>
       <img src='/assets/images/publication/crystal_cano.png' alt="Crystal Canonicalization teaser" width="100%">
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
 
-🔷 **Revisiting the Canonicalization for Fast and Accurate Crystal Tensor Property Prediction**  
+🔷 **[Revisiting the Canonicalization for Fast and Accurate Crystal Tensor Property Prediction](https://arxiv.org/abs/2410.02372v3)**  
 <p>
 Haowei Hua, <strong><u>Jingwen Yang</u></strong>, Wanyu Lin<sup>†</sup>, Pan Zhou, Ming Yang, Yew-Soon Ong  
 </p>
-• *Under submission, 2025*
+• *arXiv preprint, 2025* &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2410.02372v3)
 
 A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivariant crystal tensor property prediction, achieving up to 13× speedup and SOTA accuracy.
 
