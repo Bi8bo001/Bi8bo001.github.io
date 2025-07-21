@@ -55,7 +55,7 @@ If you’re open to chatting or collaboration, feel free to contact me via **ema
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">NeurIPS 2025</div>
+      <div class="badge">arXiv preprint</div>
       <img src='/assets/images/publication/infimed.png' alt="Infi-Med teaser" width="100%">
     </div>
   </div>
@@ -75,7 +75,7 @@ A robust and resource-efficient medical MLLM, systematically evaluated across re
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <div class="badge">NeurIPS 2025</div>
+      <div class="badge">In Submission</div>
       <img src='/assets/images/publication/crystal_cano.png' alt="Crystal Canonicalization teaser" width="100%">
     </div>
   </div>
