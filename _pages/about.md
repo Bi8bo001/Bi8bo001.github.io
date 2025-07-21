@@ -19,27 +19,47 @@ redirect_from:
 
 # 👋 Welcome to My Site!!
 
-Hello! 😊 I’m **Jingwen Yang (Anita)**, a second-year undergraduate at **The Hong Kong Polytechnic University**, majoring in **Data Science & Analytics** in the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/?sc_lang=en) and minoring in **Computer Science** in the [Department of Computing](https://www.polyu.edu.hk/comp/?sc_lang=en).📄 [Transcripts](transcripts.pdf)
+Hello! 😊 I’m **Jingwen Yang (Anita)**, an upcoming third-year undergraduate at **The Hong Kong Polytechnic University**, majoring in **Data Science & Analytics** in the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/?sc_lang=en) and minoring in **Computer Science** in the [Department of Computing](https://www.polyu.edu.hk/comp/?sc_lang=en). I’m deeply grateful to be advised by [Prof. Wanyu Lin](https://wanyu-lin.github.io/) and [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/) in my research journey. 
 
 
-## 🔬 Research Interests  
-I’m passionate about **AI for Science**, **Explainable AI**, and **Computer Vision**. Currently, I am:  
-- Collaborating with a PhD senior on **crystal structure prediction** using AI for Science and exploring **Explainable Graph Neural Networks (GNNs)** for scientific applications under the guidance of **Prof. Lin Wanyu**.  
-- Working on a **vision-language model (VLM) for medical images** project under the guidance of **Prof. Yang Hongxia**, as part of a PhD-level coursework project.  
+## 🔬 Research Interests
 
-I'm also a **co-founder** of an **entrepreneurial AI project** that applies **computer vision** to revolutionize dance education. This project uses AI to segment dance videos (e.g., hip-hop, gesture dances), analyze rhythm, and generate structured teaching content. The aim is to create interactive, beginner-friendly tutorials, making dance learning accessible and innovating in the digital education space.
+
+My previous research experience includes work on an **explainable multimodal framework for crystal property prediction** and on **building low-resource medical MLLMs with robust reasoning evaluation**. These projects sparked my interest in the challenges of multimodal learning and model interpretability in real-world scenarios.
+
+Looking ahead, my core research interests lie in **multimodal reasoning**, particularly within **trustworthy and explainable large language models (LLMs)**. I'm especially excited about **hallucination mitigation**, **multi-agent cognitive alignment**, and the broader goal of **human-centered alignment of AI**. I’m also deeply curious about how **MLLMs** can support **human understanding** and **collaborative intelligence**.
+
+I’m currently seeking **research collaborations or internship opportunities** related to **multimodal reasoning, LLM alignment, and trustworthy AI**.
+
 
 ## 📩 Get in Touch
-I’m incredibly grateful for the mentorship and guidance I’ve received, and I’m eager to seek **research/intern opportunities** in fields of **AI for Science** and **Computer Vision**—happy to connect!. 📄 <span style="color:red;">[Download My CV](CV_summerresearch.pdf)
+
+I’m genuinely thankful for the mentorship and support I’ve received so far, and always happy to connect with others interested in AI and reasoning 🤍  
+If you’re open to chatting or collaboration, feel free to contact me via **email** 📧 *jingwen.yang@connect.polyu.hk* or add me on **WeChat** 💬 *tiancaiygg666* — I’d truly appreciate the opportunity！
+
+## 💻 Internships
+
+- *Jun 2025 – Aug 2025* · **R&D Intern, Nokia**  
+  *Shanghai, China*
 
 
-# 🎖 Honors and Awards
-- *2024.06* Hall Academic Scholarship for top 3 students in GPA: [Dr. Kong Footcare Minyin Hall Scholarship 2023/24](MY_scholarship.pdf)
-- *2024.09* Research Scholarship: Undergraduate Research and Innovation Scheme[(URIS)](https://www.polyu.edu.hk/gs/ug-research/uris/approved-projects/?sc_lang=en) Scholarship 2024/25
+## 🎖 Honors and Awards
 
-# 📖 Educations
-- *2023.09 - 2027.06 (expected)*, BSc (HONS) DATA SCIENCE & ANALYTICS, MINOR IN COMPUTER SCIENCE, Hong Kong Polytechnic University
-- *2024.06 - 2024.08*, Summer Session, Stanford University
+- *Jun 2024* · **Dr. Kong Footcare Minyin Hall Scholarship**  
+  *(Top 3 GPA among hall residents · Hall Academic Scholarship 2023/24)* [[PDF](MY_scholarship.pdf)]
+
+- *Sep 2024* · **Undergraduate Research and Innovation Scheme (URIS)**  
+  *PolyU Research Scholarship 2024/25* [[Link](https://www.polyu.edu.hk/gs/ug-research/uris/approved-projects/?sc_lang=en)]
+
+## 📖 Education
+
+- *Sep 2023 – Jun 2027 (expected)* · **BSc (Hons) in Data Science & Analytics**, Minor in Computer Science  
+  *The Hong Kong Polytechnic University*
+
+- *Jun 2024 – Aug 2024* · **Summer Session**  
+  *Stanford University*
+
+
 
 <!--
 # 🔥 News
