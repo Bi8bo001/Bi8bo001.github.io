@@ -27,7 +27,7 @@ Hello! 😊 I’m **Jingwen Yang (Anita)**, an upcoming third-year undergraduate
 
 My previous research experience includes work on an **explainable multimodal framework for crystal property prediction** and on **building low-resource medical MLLMs with robust reasoning evaluation**. These projects sparked my interest in the challenges of multimodal learning and model interpretability in real-world scenarios.
 
-Looking ahead, my core research interests lie in **multimodal reasoning**, particularly within **trustworthy and explainable large language models (LLMs)**. I'm especially excited about **hallucination mitigation**, **multi-agent cognitive alignment**, and the broader goal of **human-centered alignment of AI**. I’m also deeply curious about how **MLLMs** can support **human understanding** and **collaborative intelligence**.
+My current research interests lie in **multimodal reasoning**, particularly within **trustworthy and explainable large language models (LLMs)**. I'm especially excited about **hallucination mitigation**, **multi-agent cognitive alignment**, and the broader goal of **human-centered AI**.
 
 I’m currently seeking **research collaborations or internship opportunities** related to **multimodal reasoning, LLM alignment, and trustworthy AI**.
 
@@ -42,6 +42,7 @@ If you’re open to chatting or collaboration, feel free to contact me via **ema
 - *Jun 2025 – Aug 2025* · **R&D Intern, Nokia**  
   *Shanghai, China*
 
+
 ## 📝 Publications  
 † indicates corresponding author, * indicates equal contribution
 
@@ -55,8 +56,28 @@ If you’re open to chatting or collaboration, feel free to contact me via **ema
   <div class="paper-box-text" markdown="1">
 
 🌟 **[Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation](https://arxiv.org/abs/2505.23867)**  
-Zeyu Liu\*, Zhitian Hou\*, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, **Jingwen Yang**, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang\†  
+Zeyu Liu*, Zhitian Hou*, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, **Jingwen Yang**, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang†  
 • *arXiv preprint, 2025* &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2505.23867)
+
+A robust and resource-efficient medical MLLM, systematically evaluated across reasoning, grounding, and hallucination dimensions on real-world clinical VQA datasets.
+
+</div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Under Submission</div>
+      <img src='/assets/images/publication/crystal_cano.png' alt="Crystal Canonicalization teaser" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+🔷 **Revisiting the Canonicalization for Fast and Accurate Crystal Tensor Property Prediction**  
+Haowei Hua, **Jingwen Yang**, Wanyu Lin†, Pan Zhou, Ming Yang, Yew-Soon Ong  
+• *Under submission, 2025*
+
+A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivariant crystal tensor property prediction, achieving up to 13× speedup and SOTA accuracy.
 
 </div>
 </div>
