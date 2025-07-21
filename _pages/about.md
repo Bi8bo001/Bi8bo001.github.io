@@ -92,7 +92,7 @@ A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivar
 </div>
 </div>
 
-<span class='anchor' id='honors and awards'></span>
+<span class='anchor' id='honors-and-awards'></span>
 ## 🎖 Honors and Awards
 
 - *Jun 2024* · **Dr. Kong Footcare Minyin Hall Scholarship**  
