@@ -81,7 +81,9 @@ A robust and resource-efficient medical MLLM, systematically evaluated across re
   <div class="paper-box-text" markdown="1">
 
 🔷 **Revisiting the Canonicalization for Fast and Accurate Crystal Tensor Property Prediction**  
+<p>
 Haowei Hua, <strong><u>Jingwen Yang</u></strong>, Wanyu Lin<sup>†</sup>, Pan Zhou, Ming Yang, Yew-Soon Ong  
+</p>
 • *Under submission, 2025*
 
 A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivariant crystal tensor property prediction, achieving up to 13× speedup and SOTA accuracy.
