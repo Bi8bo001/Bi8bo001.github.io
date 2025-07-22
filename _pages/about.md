@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 Welcome to My Site!!
+# ✨ About Me :)
 
-Hello! 😊 I’m **Jingwen Yang (Anita)**, an upcoming third-year undergraduate at **The Hong Kong Polytechnic University**, majoring in **Data Science & Analytics** in the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/?sc_lang=en) and minoring in **Computer Science** in the [Department of Computing](https://www.polyu.edu.hk/comp/?sc_lang=en). I’m deeply grateful to be advised by [Prof. Wanyu Lin](https://wanyu-lin.github.io/) and [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/) in my research journey. 
+Hi there! 😊 I’m **Jingwen Yang (Anita)**, an upcoming third-year undergraduate at **The Hong Kong Polytechnic University**, majoring in **Data Science & Analytics** in the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/?sc_lang=en) and minoring in **Computer Science** in the [Department of Computing](https://www.polyu.edu.hk/comp/?sc_lang=en). I’m deeply grateful to be advised by [Prof. Wanyu Lin](https://wanyu-lin.github.io/) and [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/) in my research journey. 
 
 <hr>
 
