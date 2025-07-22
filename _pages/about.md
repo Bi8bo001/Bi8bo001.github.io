@@ -26,11 +26,11 @@ Hi there! 😊 I’m **Jingwen Yang (Anita)**, an upcoming third-year undergradu
 ## 🔬 Research Interests
 
 
-My previous research experience includes work on an **explainable multimodal framework for crystal property prediction** and on **building low-resource medical MLLMs with robust reasoning evaluation**. These projects sparked my interest in the challenges of multimodal learning and model interpretability in real-world scenarios.
+My previous research experience includes work on an **explainable multimodal framework for crystal property prediction** and on **building low-resource medical MLLMs with robust reasoning evaluation**. These projects sparked my passion for tackling the challenges of multimodal learning and model interpretability in real-world scenarios.
 
 My current research interests lie in **multimodal reasoning**, particularly within **trustworthy and explainable large language models (LLMs)**. I'm especially excited about **hallucination mitigation**, **multi-agent cognitive alignment**, and the broader goal of **human-centered AI**.
 
-I’m currently seeking **research collaborations or internship opportunities** related to **multimodal reasoning, LLM alignment, and trustworthy AI**.
+I’m actively seeking **research collaborations** or **internship opportunities** related to **multimodal reasoning, LLM alignment, and trustworthy AI**. I’d truly appreciate the opportunity to connect, learn, and contribute! 🌷
 
 <hr>
 
