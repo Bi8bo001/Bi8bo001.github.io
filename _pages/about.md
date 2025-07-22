@@ -16,7 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
 # ✨ Welcome to My Website!
 
 Hi there! 😊 I’m **Jingwen Yang (Anita)**, an upcoming third-year undergraduate at **The Hong Kong Polytechnic University**, majoring in **Data Science & Analytics** in the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/?sc_lang=en) and minoring in **Computer Science** in the [Department of Computing](https://www.polyu.edu.hk/comp/?sc_lang=en). I’m deeply grateful to be advised by [Prof. Wanyu Lin](https://wanyu-lin.github.io/) and [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/) in my research journey. 
@@ -40,7 +39,6 @@ I’m genuinely thankful for the mentorship and support I’ve received so far, 
 If you’re open to chatting or collaboration, feel free to contact me via **email** 📧 *jingwen.yang@connect.polyu.hk* or add me on **WeChat** 💬 *tiancaiygg666* — I’d truly appreciate the opportunity！
 
 <hr>
-
 <span class='anchor' id='publications'></span>
 ## 📝 Publications  
 <p>
@@ -93,7 +91,6 @@ A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivar
   *Shanghai, China*
 
 <hr>
-
 <span class='anchor' id='honors-and-awards'></span>
 ## 🎖 Honors and Awards
 
@@ -104,7 +101,6 @@ A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivar
   *PolyU Research Scholarship 2024/25* [[Link](https://www.polyu.edu.hk/gs/ug-research/uris/approved-projects/?sc_lang=en)]
 
 <hr>
-
 <span class='anchor' id='education'></span>
 ## 📖 Education
 
