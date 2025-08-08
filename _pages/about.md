@@ -95,7 +95,7 @@ A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivar
 ## 🎖 Honors and Awards
 
 - *Jun 2024* · **Dr. Kong Footcare Minyin Hall Scholarship**  
-  *(Top 3 GPA among hall residents · Hall Academic Scholarship 2023/24)* [[PDF](MY_scholarship.pdf)]
+  *(Top 3 GPA among hall residents · Hall Academic Scholarship 2023/24)*
 
 - *Sep 2024* · **Undergraduate Research and Innovation Scheme (URIS)**  
   *PolyU Research Scholarship 2024/25* [[Link](https://www.polyu.edu.hk/gs/ug-research/uris/approved-projects/?sc_lang=en)]
