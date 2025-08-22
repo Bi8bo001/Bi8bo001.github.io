@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://bi8bo001.github.io/"
+  github           : Bi8bo001
   google_plus      :
   keybase          :
   instagram        :
@@ -65,6 +65,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - .github
 exclude:
   - docs
   - google_scholar_crawler
@@ -74,7 +75,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - .github
+  # - .github
   - CHANGELOG
   - Capfile
   - Gemfile
