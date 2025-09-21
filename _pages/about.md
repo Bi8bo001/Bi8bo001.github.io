@@ -36,7 +36,7 @@ I’m actively seeking **research collaborations** or **internship opportunities
 ## 📩 Get in Touch
 
 I’m genuinely thankful for the mentorship and support I’ve received so far, and always happy to connect with others interested in AI and reasoning 🤍  
-If you’re open to chatting or collaboration, feel free to contact me via **email** 📧 *jingwen.yang@connect.polyu.hk* or add me on **WeChat** 💬 *tiancaiygg666* — I’d truly appreciate the opportunity！
+If you’re open to chatting or collaboration, feel free to contact me via **email** 📧 *jingwen.yang@connect.polyu.hk* or add me on **WeChat** 💬 *jwabo001* — I’d truly appreciate the opportunity！
 
 <hr>
 <span class='anchor' id='publications'></span>
