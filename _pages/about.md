@@ -94,7 +94,7 @@ A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivar
 <span class='anchor' id='honors-and-awards'></span>
 ## 🎖 Honors and Awards  
 
-- *Oct 2025* · **Commercial Radio 50th Anniversary Scholarship 2024/25**
+- *Oct 2025* · **Commercial Radio 50th Anniversary Scholarship 2024/25**  
   *(For outstanding offshore internship performance)*
   
 - *Jun 2024* · **Dr. Kong Footcare Minyin Hall Scholarship**  
@@ -107,7 +107,7 @@ A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivar
 <span class='anchor' id='education'></span>
 ## 📖 Education
 
-- *Jan 2026 - May 2026* · **Semester Visiting**
+- *Jan 2026 - May 2026* · **Semester Visiting**  
   *University of California, Berkeley*
 
 - *Jun 2024 – Aug 2024* · **Summer Session**  
