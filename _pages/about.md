@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # ✨ Welcome to My Website!
 
-Hi there! 😊 I’m **Jingwen Yang (Anita)**, an upcoming third-year undergraduate at **The Hong Kong Polytechnic University**, majoring in **Data Science & Analytics** in the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/?sc_lang=en) and minoring in **Computer Science** in the [Department of Computing](https://www.polyu.edu.hk/comp/?sc_lang=en). I’m deeply grateful to be advised by [Prof. Wanyu Lin](https://wanyu-lin.github.io/) and [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/) in my research journey. 
+Hi there! 😊 I’m **Jingwen Yang (Anita)**, a third-year undergraduate at **The Hong Kong Polytechnic University**, majoring in **Data Science & Analytics** in the [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/?sc_lang=en) and minoring in **Computer Science** in the [Department of Computing](https://www.polyu.edu.hk/comp/?sc_lang=en). I’m deeply grateful to be advised by [Prof. Wanyu Lin](https://wanyu-lin.github.io/), [Prof. Hongxia Yang](https://www4.comp.polyu.edu.hk/~hongxyang/) and [Prof. Manling Li](https://limanling.github.io/) in my research journey. 
 
 <hr>
 
@@ -40,7 +40,7 @@ If you’re open to chatting or collaboration, feel free to contact me via **ema
 
 <hr>
 <span class='anchor' id='publications'></span>
-## 📝 Publications  
+## 📝 Publications & Preprints
 <p>
 <sup>†</sup> indicates corresponding author, <sup>*</sup> indicates equal contribution
 </p>
@@ -53,11 +53,11 @@ If you’re open to chatting or collaboration, feel free to contact me via **ema
   </div>
   <div class="paper-box-text" markdown="1">
 
-🌟 **[Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation](https://arxiv.org/abs/2505.23867)**  
+🌟 **[Infi-Med: Low-Resource Medical MLLMs with Robust Reasoning Evaluation]([https://arxiv.org/abs/2505.23867](https://arxiv.org/abs/2505.23867v1))**  
 <p>
 Zeyu Liu<sup>*</sup>, Zhitian Hou<sup>*</sup>, Yining Di, Kejing Yang, Zhijie Sang, Congkai Xie, <strong><u>Jingwen Yang</u></strong>, Siyuan Liu, Jialu Wang, Chunming Li, Ming Li, Hongxia Yang <sup>†</sup>  
 </p>
-• *arXiv preprint, 2025* &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2505.23867)
+• *arXiv preprint, 2025* &nbsp;&nbsp; [📄 arXiv]([https://arxiv.org/abs/2505.23867](https://arxiv.org/abs/2505.23867v1))
 
 A robust and resource-efficient medical MLLM, systematically evaluated across reasoning, grounding, and hallucination dimensions on real-world clinical VQA datasets.
 
@@ -77,7 +77,7 @@ A robust and resource-efficient medical MLLM, systematically evaluated across re
 <p>
 Haowei Hua, <strong><u>Jingwen Yang</u></strong>, Wanyu Lin<sup>†</sup>, Pan Zhou, Ming Yang, Yew-Soon Ong  
 </p>
-• *arXiv preprint, 2025* &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2410.02372v3)
+• *AAAI-2026 (Oral)* &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2410.02372v3)
 
 A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivariant crystal tensor property prediction, achieving up to 13× speedup and SOTA accuracy.
 
@@ -92,8 +92,11 @@ A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivar
 
 <hr>
 <span class='anchor' id='honors-and-awards'></span>
-## 🎖 Honors and Awards
+## 🎖 Honors and Awards  
 
+- *Oct 2025* · **Commercial Radio 50th Anniversary Scholarship 2024/25**
+  *(For outstanding offshore internship performance)*
+  
 - *Jun 2024* · **Dr. Kong Footcare Minyin Hall Scholarship**  
   *(Top 3 GPA among hall residents · Hall Academic Scholarship 2023/24)*
 
@@ -104,13 +107,14 @@ A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivar
 <span class='anchor' id='education'></span>
 ## 📖 Education
 
-- *Sep 2023 – Jun 2027 (expected)* · **BSc (Hons) in Data Science & Analytics**, Minor in Computer Science  
-  *The Hong Kong Polytechnic University*
+- *Jan 2026 - May 2026* · **Semester Visiting**
+  *University of California, Berkeley*
 
 - *Jun 2024 – Aug 2024* · **Summer Session**  
   *Stanford University*
 
-
+- *Sep 2023 – Jun 2027 (expected)* · **BSc (Hons) in Data Science & Analytics**, Minor in Computer Science  
+  *The Hong Kong Polytechnic University*
 
 <!--
 # 🔥 News
