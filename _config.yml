@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jingwen Yang"
-description: "Third-Year Undergraduate | LLM Reasoning · Alignment · Human-Centered Intelligence"
+description: "Third-Year Undergraduate | NLP · Multimodal Reasoning · Human-Centered AI"
 
 repository               : "Bi8bo001/jingwen.yang.github.io"
 google_scholar_stats_use_cdn : false
@@ -24,8 +24,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingwen Yang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Hong Kong Polytechnic University"
-  location         : "Hong Kong"
+  bio              : "The Hong Kong Polytechnic University"
+  location         : "Currently CA"
   employer         :
   pubmed           : 
   #googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
