@@ -79,8 +79,8 @@ Haowei Hua, <strong><u>Jingwen Yang</u></strong>, Wanyu Lin<sup>†</sup>, Pan Z
 A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivariant crystal tensor property prediction, achieving up to 13× speedup and SOTA accuracy.
 
 </div>
+</div>
 
-<hr>
 
 <span class='anchor' id='internships'></span>
 ## 💻 Internships
