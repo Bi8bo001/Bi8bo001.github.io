@@ -24,7 +24,7 @@ Hi there! 😊 I’m **Jingwen Yang (Anita)**, a third-year undergraduate at **T
 
 ## 🔬 Research Interests
 
-I'm currently working on projects related to **spatial intelligence of VLMs**. Broadly, my research interests lie in **multimodal reasoning**, **LLM alignment**, and **human-centered NLP**. I'm especially excited about building AI systems that can **reason, generalize, and interact robustly in real-world settings**, with a focus on **explainability**, **value alignment**, and **cognitive grounding**.
+I'm currently working on projects related to **spatial intelligence of VLMs**. Broadly, my research interests lie in **multimodal reasoning**, **embodied agents**, and **human-centered NLP**. I'm especially excited about building AI systems that can **reason, generalize, and interact robustly in real-world settings**, with a focus on **explainability**, **value alignment**, and **cognitive grounding**.
 
 I’m actively seeking **Summer 2026 research internship opportunities** related to NLP, multimodal learning, and trustworthy AI. I’d truly love the opportunity to connect, contribute, and grow! 🌷
 
