@@ -24,18 +24,15 @@ Hi there! 😊 I’m **Jingwen Yang (Anita)**, a third-year undergraduate at **T
 
 ## 🔬 Research Interests
 
+I'm currently working on projects related to **spatial intelligence of VLMs**. Broadly, my research interests lie in **multimodal reasoning**, **LLM alignment**, and **human-centered NLP**. I'm especially excited about building AI systems that can **reason, generalize, and interact robustly in real-world settings**, with a focus on **explainability**, **value alignment**, and **cognitive grounding**.
 
-- My previous research experience includes work on an **explainable multimodal framework for crystal property prediction** and on **building low-resource medical MLLMs with robust reasoning evaluation**. These projects sparked my passion for tackling the challenges of multimodal learning and model interpretability in real-world scenarios.  
-
-- My current research interests lie in **multimodal reasoning**, particularly within **trustworthy and explainable large language models (LLMs)**. I'm especially excited about **hallucination mitigation**, **multi-agent cognitive alignment**, and the broader goal of **human-centered AI**.
-
-I’m actively seeking **research collaborations** or **internship opportunities** related to **multimodal reasoning, LLM alignment, and trustworthy AI**. I’d truly appreciate the opportunity to connect, learn, and contribute! 🌷
+I’m actively seeking **Summer 2026 research internship opportunities** related to NLP, multimodal learning, and trustworthy AI. I’d truly love the opportunity to connect, contribute, and grow! 🌷
 
 <hr>
 
 ## 📩 Get in Touch
 
-I’m genuinely thankful for the mentorship and support I’ve received so far, and always happy to connect with others interested in AI and reasoning 🤍  
+I’m genuinely thankful for the mentorship and support I’ve received so far, and always happy to connect with others interested in the NLP field 🤍  
 If you’re open to chatting or collaboration, feel free to contact me via **email** 📧 *jingwen.yang@connect.polyu.hk* or add me on **WeChat** 💬 *jwabo001* — I’d truly appreciate the opportunity！
 
 <hr>
@@ -84,11 +81,29 @@ A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivar
 </div>
 </div>
 
+<hr>
+
 <span class='anchor' id='internships'></span>
 ## 💻 Internships
 
 - *Jun 2025 – Aug 2025* · **R&D Intern, Nokia**  
   *Shanghai, China*
+
+<hr>
+
+<span class='anchor' id='education'></span>
+## 📖 Education
+
+- *Jan 2026 - May 2026* · **Semester Visiting**  
+  *University of California, Berkeley*
+
+- *Jun 2024 – Aug 2024* · **Summer Session**  
+  *Stanford University*
+
+- *Sep 2023 – Jun 2027 (expected)* · **BSc (Hons) in Data Science & Analytics**, Minor in Computer Science  
+  *The Hong Kong Polytechnic University*
+
+<!--
 
 <hr>
 <span class='anchor' id='honors-and-awards'></span>
@@ -103,20 +118,6 @@ A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivar
 - *Sep 2024* · **Undergraduate Research and Innovation Scheme (URIS)**  
   *PolyU Research Scholarship 2024/25* [[Link](https://www.polyu.edu.hk/gs/ug-research/uris/approved-projects/?sc_lang=en)]
 
-<hr>
-<span class='anchor' id='education'></span>
-## 📖 Education
-
-- *Jan 2026 - May 2026* · **Semester Visiting**  
-  *University of California, Berkeley*
-
-- *Jun 2024 – Aug 2024* · **Summer Session**  
-  *Stanford University*
-
-- *Sep 2023 – Jun 2027 (expected)* · **BSc (Hons) in Data Science & Analytics**, Minor in Computer Science  
-  *The Hong Kong Polytechnic University*
-
-<!--
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
