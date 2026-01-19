@@ -70,9 +70,9 @@ A robust and resource-efficient medical MLLM, systematically evaluated across re
   </div>
   <div class="paper-box-text" markdown="1">
 
-🔷 **[Revisiting the Canonicalization for Fast and Accurate Crystal Tensor Property Prediction](https://arxiv.org/abs/2410.02372v3)**  
+🔷 **[Revisiting the Canonicalization for Fast and Accurate Crystal Tensor Property Prediction](https://arxiv.org/abs/2410.02372v4)**  
 <p>
-Haowei Hua, <strong><u>Jingwen Yang</u></strong>, Wanyu Lin<sup>†</sup>, Pan Zhou, Ming Yang, Yew-Soon Ong  
+Haowei Hua, <strong><u>Jingwen Yang</u></strong>, Wanyu Lin<sup>†</sup>, Pan Zhou
 </p>
 • *AAAI-2026 (Oral)* &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2410.02372v3)
 
