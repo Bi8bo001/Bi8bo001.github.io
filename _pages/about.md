@@ -74,7 +74,7 @@ A robust and resource-efficient medical MLLM, systematically evaluated across re
 <p>
 Haowei Hua, <strong><u>Jingwen Yang</u></strong>, Wanyu Lin<sup>†</sup>, Pan Zhou
 </p>
-• *AAAI-2026 (Oral)* &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2410.02372v3)
+• *AAAI-2026 (Oral)* &nbsp;&nbsp; [📄 arXiv](https://arxiv.org/abs/2410.02372v4)
 
 A polar decomposition-based canonicalization framework (GoeCTP) for O(3)-equivariant crystal tensor property prediction, achieving up to 13× speedup and SOTA accuracy.
 
